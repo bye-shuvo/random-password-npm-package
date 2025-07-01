@@ -1,2 +1,1 @@
-# hash-password-npm-package
-#hash-password-npm-package
+# random-password-npm-package
