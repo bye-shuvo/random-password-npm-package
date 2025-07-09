@@ -1,6 +1,6 @@
 {
   "name": "@bye_shuvo/random-password",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Generate random password of any length",
   "main": "index.js",
   "scripts": {
@@ -8,8 +8,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "(https://github.com/bye-shuvo/hash-password-npm-package)"
+    "url": "https://github.com/bye-shuvo/random-password-npm-package"
   },
+  "homepage" : "https://github.com/bye-shuvo/random-password-npm-package#readme" ,
   "keywords": [
     "byehash"
   ],
